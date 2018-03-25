@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Evolution of Bitcoin</title>
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/Styling.css">
+</head>
+
+<body>
+<h1>The Evolution of Bitcoin</h1>
+<img class="green" src="Images/evo.jpg">
+
+
+
+
+
+
+<p>Bitcoin is a cryptocurrency, a digital asset designed to work as a medium of exchange that uses cryptography to control its creation and management, rather than relying on central authorities. Over the course of bitcoin's history, it has undergone rapid growth to become a significant currency both on and offline – from the mid 2010s onward, some businesses on a global scale began accepting bitcoins in addition to fiat currencies.It was created on August 18 2008 under the domain bitcoin.org.Over the years bitcoin has grown tremendously from approximately 8 cents in 2008 to a staggering $18 000 in late 2017.The prices keep fluctuating in response to the cryptocurrency market.As of 24 March 2018 Bitcoin is worth $8 808.Bitcoin is one of the most interesting digital currencies that is available on the market, and with a current increase in popularity of this thrilling cryptocurrency, there are a number of people who are interested in determining where the Bitcoin actually came from. The journey and evolution of the Bitcoin is as interesting as the currency itself, and with it still being in its infancy having only first been thought of back in 2007, we are certain to see a huge number of developments due to be implemented in recent times.</p>
+
+
+
+	
+	<h2>The History of Bitcoin</h2>
+
+<img class="tree" src="Images/bitcoin.png.">
+
+	<p>The concept of the Bitcoin begun back in 2007, with the pseudonymous Satoshi Nakamoto began working on the idea in Tokyo, Japan.  Not only did Satoshi design the Bitcoin and its implementation, he also helped to devise the first blockchain database, which has led to a huge number of security advantages being implemented across the world as we speak. There is a lot of mystery surrounding Satoshi Nakamoto, but there is no denying that his creation is somewhat genius. After the initial design of the Bitcoin concept, one of the first sites Bitcoin.org was registered, a whole year later! But that wasn’t all. In 2008, singer Lily Allen reportedly turned down an online concert after being offered payment in Bitcoin, because of the small value that was attached to it at the time. Now, the value of the fee would’ve been around £118m worth of Bitcoin which is over 20 times her current fortune of £6 million! Safe to say it’s a sore subject with the pop star.</p>
+
+<p>2009 was a very interesting year for the Bitcoin, with more technological developments being implemented and integrated with the digital currency. The first ever block, known as the Genesis Block or Block 0, was mined on January 3rd, which was a huge achievement for the infant blockchain technology. Now, reports are suggesting that 80% of all Bitcoins will be mined by next year – less than 10 years since the first ever Bitcoin was mined! In addition to this, on January 12th, the first ever Bitcoin transaction took place, setting the precedent for the Bitcoin digital currency that we know today. 2009 was also the year of the first ever exchange rate being introduced for the digital currency, and at the time $1 USD = 1,309.03 BTC. Times have now changed with a total reverse of the value of the currency, with $1 USD being equivalent to just 0.00044 BTC as of 30th May 2017.</p>
+
+<p>But all was not well for a particular Bitcoin owner in 2009. A British man named James Howells jumped straight onto the Bitcoin tidal wave, and mined a total of 7,500 Bitcoins, preceding to store them in a hard drive due to the fact they weren’t worth very much at the time. The hard drive was then ultimately forgotten about, and this led to Howells ending up throwing the hard drive away, completely forgetting about the Bitcoins stored on it! At the time of being thrown away, the Bitcoins were worth over $600,000, which would hurt enough thinking about throwing that much money away. Now however, the quantity of Bitcoins would equate to a whopping $8 million+, which has been lost to a land fill facility.</p>
+
+	<p>2016 saw the legalisation and official recognition of the Bitcoin in Japan and this is said to have been one of the major factors that saw the Bitcoin rise over $1 billion in 2017. With the network exceeding 1exahash/second, which is more powerful than the world’s fastest supercomputer, it is easy to see how this exciting digital currency is growing and growing as the years pass. 2017 has seen the Bitcoin boom bigger than it has ever boomed before, and this extensive increase really is the perfect opportunity that the digital currency needs to be fully accepted around the world. In May 2017, Bitcoin traded at its highest value in history, averaging at around $2,446 USD! This is a huge increase for the Bitcoin, and while there have been occasional drop offs here and there throughout the month, the currency’s value has continued to rise.</p>
+
+
+
+		<h3>Is It Safe To Invest In Bitcoin?</h3>
+
+		<h4>Advantages of Bitcoin</h4>
+
+<h5>No Taxes</h5>
+<p>There is no way for a third party to intercept transactions of Bitcoins, and therefore there is no viable way to implement a Bitcoin taxation system. The only way to pay a tax would be, if someone voluntarily sends a percentage of the amount being sent as tax.</p>
+
+<h5>No Tracking</h5>
+<p>Unless users publicize their wallet addresses publicly, no one can trace transactions back to them. No one, other than the wallet owners, will know how many Bitcoins they have. Even if the wallet address was publicized, a new wallet address can be easily generated. This greatly increases privacy when compared to traditional currency systems, where third parties potentially have access to personal financial data.</p>
+
+<h5>No Transaction Costs</h5>
+<p>Sending and receiving Bitcoins requires users to keep the Bitcoin client running and connected to other nodes. Essentially, by using bitcoins users will be contributing to the network, and thus sharing the burden of authorizing transactions. Sharing this work greatly reduces transaction costs, and thus makes transaction costs negligible.</p>
+
+<h5>Bitcoins Cannot be Stolen</h5>
+<p>Bitcoins’ ownership address can only be changed by the owner. No one can steal Bitcoins unless they have physical access to a user’s computer, and they send the bitcoins to their account. Unlike convential currency systems, where only a few authentication details are required to gain access to finances, this system requires physical access, which makes it much harder to steal</p>
+
+<h4>Disadvantages of Bitcoin</h4>
+
+<h5>Bitcoins Are Not Widely Accepted</h5>
+<p>Bitcoins are still only accepted by a very small group of online merchants. This makes it unfeasible to completely rely on Bitcoins as a currency. There is also a possibility that governments might force merchants to not use Bitcoins to ensure that users’ transactions can be tracked.</p>
+
+<h5>Wallets Can Be Lost</h5>
+<p>If a hard drive crashes, or a virus corrupts data , and the wallet file is corrupted, Bitcoins have essentially been “lost”. There is nothing that can done to recover it. These coins will be forever orphaned in the system. This can bankrupt a wealthy Bitcoin investor within seconds with no way form of recovery. The coins the investor owned will also be permanently orphaned.</p>
+
+<h5>Bitcoin Valuation Fluctuates</h5>
+<p>The value of Bitcoin was around $18 000 in late 2017 but it's decreased to $8 808 as of March 2018</p>
+
+<img  class="tree" src="Images/bitcoin.png.">
+
+</body>
+</html>

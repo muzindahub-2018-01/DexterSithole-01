@@ -1,0 +1,41 @@
+body {
+	background-color: #c2c2a3;
+	width:70%;
+	font-style: sans-serif;
+	padding-left: 100px;
+
+}
+
+h1 {font-style: sans-serif;
+	padding-left: 300px;
+	font-size: 300%;
+	color: #001433;
+	font-family: "Trebuchet MS", Verdana, sans-serif; 
+}	
+.green {
+     height: 200px;
+     width: 400px;
+     width: 90%;
+     padding-left: 100px;
+}
+h2{color: #001433;
+   font-family: century;
+
+}
+
+.tree {
+	height: 150px;
+    width: 150px;
+    padding-left: 300px;
+    border-radius: 74px 74px;
+6
+}
+
+h3{color: #001433;
+   font-family: lucida console;
+   font-size: 200%;
+
+}
+h4{color: #ff3333;
+
+}
